@@ -1,6 +1,8 @@
+![grs](./profile/stats.svg)
+
 ## Hi, this is Essenpphire!\~ (～￣▽￣)～
 ### 🐟 Self Introduction
-A growing game client programmer and a normal tech lover, currently working on:
+A fresh but growing game client programmer and a normal tech lover, currently working on:
 - Godot client developing and **GAMEJAM**
 - Simple embedded exploration
 - Study some open-source projects
@@ -16,9 +18,14 @@ A growing game client programmer and a normal tech lover, currently working on:
 - **Tools**: Git, VSCode
 -->
 
-### 📫 Find me
+### 📫 Find Me
 - [X/Twitter](https://x.com/Essenpphire258)
 - Personal blog: ~~Maybe one day will be constructed~~
+
+### About Me
+A 50% neet-cum-degenerated-weeb and a 50% daydreamer, kinda denpa-type.
+
+Most of the time, I feel uncertain about the future, yet now, I trust that I'm on right way.
 
 > 🧊 **Cirno fumo 4 ever ~ ᗜˬᗜ** 🧊
 

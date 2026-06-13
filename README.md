@@ -3,23 +3,29 @@
 ## Hi, this is Essenpphire!\~ (～￣▽￣)～
 ### 🐟 Self Introduction
 A fresh but growing game client programmer and a normal tech lover, currently working on:
-- Godot client developing and **GAMEJAM**
-- Simple embedded exploration
-- Study some open-source projects
-- Mess around with GNU/Linux
-- Other technical trifles
+- 🤖 Godot client developing and **GAMEJAM**
+- 💡 Simple embedded exploration
+- 📖 Study some open-source projects
+- 🐧 Mess around with GNU/Linux
+- 💻 Other technical trifles
 
-<!--
 ### 🛠️ Tech Stack
+<!--
 - **Game**: Godot, C#, GDScript
 - **Embedded**: STM32, ESP32, Arduino, C
 - **Front-end**: React.js, Typescript
 - **Back-end**: Node.js
 - **Tools**: Git, VSCode
 -->
+[![My Skills](https://skillicons.dev/icons?i=github,git,cpp,py,js,nodejs,react,vite,godot,cs,arduino)](https://skillicons.dev)
 
 ### 📫 Find Me
-- [X/Twitter](https://x.com/Essenpphire258)
+- [![Bilibili@朝柳1385](https://img.shields.io/badge/Bilibili@朝柳1385-blue?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/491475707)
+
+- [![@Essenpphire258](https://img.shields.io/badge/@Essenpphire258-gray?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Essenpphire258)
+
+- [![Essenpphire258@gmail.com](https://img.shields.io/badge/Essenpphire258@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Essenpphire258@gmail.com)
+
 - Personal blog: ~~Maybe one day will be constructed~~
 
 ### About Me
